@@ -1,0 +1,9 @@
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\bin\Debug\TestProject1.dll
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\bin\Debug\TestProject1.pdb
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\bin\Debug\Bank.dll
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\bin\Debug\Bank.pdb
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\obj\Debug\TestProject1.dll
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\obj\Debug\TestProject1.pdb
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\bin\Debug\Bank_Accessor.dll
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\bin\Debug\Bank_Accessor.pdb

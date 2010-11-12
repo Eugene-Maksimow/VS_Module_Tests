@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ff8dd1ed-8b6e-46eb-bc96-77431104d2d3" name="Mak_71_rus@MAK-71-RUS-PC 2010-11-12 18:42:50" runUser="MAK-71-RUS-PC\Mak_71_rus" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="3be2d3d1-8260-4ce3-81e3-f284dbf35f0f">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Mak_71_rus_MAK-71-RUS-PC 2010-11-12 18_42_50">
+      <DeploymentItem filename="D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\bin\Debug\Bank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-11-12T18:42:50.2446457+03:00" queuing="2010-11-12T18:42:50.2546462+03:00" start="2010-11-12T18:42:50.2786476+03:00" finish="2010-11-12T18:42:50.5366624+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DebitTest" storage="d:\проекты visual studio\изучение\модульное тестирование в vs-2010\bank\testproject1\bin\debug\testproject1.dll" id="26bfaab1-75c4-8f62-7229-929a1e9a0aee">
+      <Execution id="32d1bca7-536e-45d5-b8b0-8e5307933b82" />
+      <TestMethod codeBase="D:/Проекты Visual Studio/Изучение/Модульное тестирование в VS-2010/Bank/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.BankAccountTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DebitTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26bfaab1-75c4-8f62-7229-929a1e9a0aee" executionId="32d1bca7-536e-45d5-b8b0-8e5307933b82" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="32d1bca7-536e-45d5-b8b0-8e5307933b82" testId="26bfaab1-75c4-8f62-7229-929a1e9a0aee" testName="DebitTest" computerName="MAK-71-RUS-PC" duration="00:00:00.0146099" startTime="2010-11-12T18:42:50.2806477+03:00" endTime="2010-11-12T18:42:50.5156612+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32d1bca7-536e-45d5-b8b0-8e5307933b82">
+    </UnitTestResult>
+  </Results>
+</TestRun>

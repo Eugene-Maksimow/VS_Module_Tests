@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d177d1d9-f99d-44a3-b378-46b3021c1533" name="Mak_71_rus@MAK-71-RUS-PC 2010-11-12 18:39:59" runUser="MAK-71-RUS-PC\Mak_71_rus" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="3be2d3d1-8260-4ce3-81e3-f284dbf35f0f">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Mak_71_rus_MAK-71-RUS-PC 2010-11-12 18_39_59">
+      <DeploymentItem filename="D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\bin\Debug\Bank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-11-12T18:39:59.3898733+03:00" queuing="2010-11-12T18:39:59.4018740+03:00" start="2010-11-12T18:39:59.4278755+03:00" finish="2010-11-12T18:39:59.7688950+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DebitTest" storage="d:\проекты visual studio\изучение\модульное тестирование в vs-2010\bank\testproject1\bin\debug\testproject1.dll" id="26bfaab1-75c4-8f62-7229-929a1e9a0aee">
+      <Execution id="50ba8706-4f64-463e-a79e-57f1d4b7673a" />
+      <TestMethod codeBase="D:/Проекты Visual Studio/Изучение/Модульное тестирование в VS-2010/Bank/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.BankAccountTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DebitTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26bfaab1-75c4-8f62-7229-929a1e9a0aee" executionId="50ba8706-4f64-463e-a79e-57f1d4b7673a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="50ba8706-4f64-463e-a79e-57f1d4b7673a" testId="26bfaab1-75c4-8f62-7229-929a1e9a0aee" testName="DebitTest" computerName="MAK-71-RUS-PC" duration="00:00:00.0681471" startTime="2010-11-12T18:39:59.4408762+03:00" endTime="2010-11-12T18:39:59.7538942+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50ba8706-4f64-463e-a79e-57f1d4b7673a">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Между ожидаемым значением &lt;0. 77&gt; и фактическим значением &lt;23. 21&gt; требуется разница не более чем &lt;0. 05&gt;. </Message>
+          <StackTrace>   в TestProject1.BankAccountTest.DebitTest() в D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\TestProject1\BankAccountTest.cs:строка 72
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

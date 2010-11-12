@@ -1,0 +1,5 @@
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\bin\Debug\Bank.dll
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\bin\Debug\Bank.pdb
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\obj\Debug\Bank.dll
+D:\Проекты Visual Studio\Изучение\Модульное тестирование в VS-2010\Bank\Bank\obj\Debug\Bank.pdb
